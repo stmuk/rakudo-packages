@@ -1,7 +1,7 @@
 # rakudo-packages
 
-A list of packaged binary (and third party source) distributions for Rakudo
-Perl 6. Versions available accurate as of 20171028.
+A list of actively maintained packaged binary (and third party source)
+distributions for Rakudo Perl 6. Versions available accurate as of 20171028.
 
 ## nxadm's packages
 
