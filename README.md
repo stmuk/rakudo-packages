@@ -1,7 +1,17 @@
 # rakudo-packages
 
 A list of actively maintained packaged binary (and third party source)
-distributions for Rakudo Perl 6. Versions available accurate as of 20171028.
+distributions for Rakudo Perl 6. 
+
+Rakudo itself comprises of rakudo, NQP and MoarVM. Potentially other backends
+can replace MoarVM.  Rakudo Star comprises of rakudo, third party modules and
+documentation.
+
+Most UNIX-like packaging systems probably should look at packaging Rakudo as
+its three components plus modules.  Rakudo Star might often be a meta package
+although packaging system often differ.
+
+Versions available accurate as of 20171028.
 
 ## nxadm's packages
 
@@ -56,3 +66,18 @@ distributions for Rakudo Perl 6. Versions available accurate as of 20171028.
 * This is a packaging of Rakudo itself, moar, nqp and the modules of Rakudo Star
 
 * It's built straight from the Rakudo Star Windows MSI usually released quarterly
+
+## Rakudo Star Docker
+
+* 2017.07
+
+<https://hub.docker.com/_/rakudo-star/>
+
+## AppImages of Rakudo and Rakudo Star
+
+<https://github.com/samcv/rakudo-appimage-module-test-automation>
+
+* AppImage is a cross-disto Linux packaging format which doesn't need root
+
+* It's unclear which versions are available but they are several months old
+
