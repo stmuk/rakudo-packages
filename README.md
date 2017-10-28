@@ -9,7 +9,7 @@ documentation.
 
 Most UNIX-like packaging systems probably should look at packaging Rakudo as
 its three components plus modules.  Rakudo Star might often be a meta package
-although packaging system often differ.
+although packaging systems often differ.
 
 Versions available accurate as of 20171028.
 
@@ -56,6 +56,12 @@ Versions available accurate as of 20171028.
 * 2017.09
 
 * Separate packages for rakudo, nqp and moarvm
+
+## OpenBSD Ports
+
+* 2017.02
+
+* http://cvsweb.openbsd.org/cgi-bin/cvsweb/ports/lang/rakudo/
 
 ## Chocolately Rakudo Star (Windows)
 
