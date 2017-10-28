@@ -47,3 +47,12 @@ distributions for Rakudo Perl 6. Versions available accurate as of 20171028.
 
 * Separate packages for rakudo, nqp and moarvm
 
+## Chocolately Rakudo Star (Windows)
+
+<https://chocolatey.org/packages/rakudostar>
+
+* 2017.07
+
+* This is a packaging of Rakudo itself, moar, nqp and the modules of Rakudo Star
+
+* It's built straight from the Rakudo Star Windows MSI usually released quarterly
