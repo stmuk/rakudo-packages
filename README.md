@@ -11,7 +11,7 @@ Most UNIX-like packaging systems probably should look at packaging Rakudo as
 its three components plus modules.  Rakudo Star might often be a meta package
 although packaging systems often differ.
 
-Versions available accurate as of 20171028.
+Versions available accurate as of 20171028 but check for updates.
 
 ## nxadm's packages
 
@@ -59,9 +59,15 @@ Versions available accurate as of 20171028.
 
 ## OpenBSD Ports
 
+<http://cvsweb.openbsd.org/cgi-bin/cvsweb/ports/lang/rakudo/>
+
 * 2017.02
 
-* http://cvsweb.openbsd.org/cgi-bin/cvsweb/ports/lang/rakudo/
+## Mac Homebrew
+
+<https://github.com/Homebrew/homebrew-core/blob/master/Formula/rakudo-star.rb>
+
+* Rakudo Star 2017.07
 
 ## Chocolately Rakudo Star (Windows)
 
