@@ -37,6 +37,13 @@ distributions for Rakudo Perl 6. Versions available accurate as of 20171028.
 
 * 2017.09
 
-* Seperate packages for rakudo, nqp and moarvm
+* Separate packages for rakudo, nqp and moarvm
 
+## archlinux
+
+<https://aur.archlinux.org/packages/rakudo/>
+
+* 2017.09
+
+* Separate packages for rakudo, nqp and moarvm
 
