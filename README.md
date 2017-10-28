@@ -23,7 +23,7 @@ distributions for Rakudo Perl 6. Versions available accurate as of 20171028.
 
 * Updated frequently by nine, a rakudo core developer
 
-* Seperate OpenSUSE RPMs available for rakudo, nqp and moarvm
+* Separate OpenSUSE RPMs available for rakudo, nqp and moarvm
 
 * perl6-Inline-Perl5 is also available
 
