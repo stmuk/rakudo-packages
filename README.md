@@ -49,6 +49,15 @@ Versions available accurate as of 20171028 but check for updates.
 
 * Separate packages for rakudo, nqp and moarvm
 
+## Debian packages
+<https://packages.debian.org/search?keywords=rakudo>
+
+* stretch (stable) 2016.12
+
+* buster (testing) 2017.06
+
+* sid (unstable) 2018.01 (amd64 etc.)
+
 ## OpenBSD Ports
 
 <http://cvsweb.openbsd.org/cgi-bin/cvsweb/ports/lang/rakudo/>
