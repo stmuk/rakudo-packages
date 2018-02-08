@@ -17,8 +17,6 @@ Versions available accurate as of 20171028 but check for updates.
 
 <https://github.com/nxadm/rakudo-pkg/releases>
 
-* 2017.10
-
 * Updated monthly by nxadm, a member of the perl6 github organization
 
 * Centos and Fedora RPMs and Debian and Ubuntu .deb are available
@@ -29,9 +27,7 @@ Versions available accurate as of 20171028 but check for updates.
 
 <https://build.opensuse.org/project/show/devel:languages:perl6>
 
-* 2017.08
-
-* Updated frequently by nine, a rakudo core developer
+* Updated by nine, a rakudo core developer
 
 * Separate OpenSUSE RPMs available for rakudo, nqp and moarvm
 
@@ -45,23 +41,17 @@ Versions available accurate as of 20171028 but check for updates.
   available for some systems (including NetBSD). WIP is the experimental
   sub-system of pkgsrc.
 
-* 2017.09
-
 * Separate packages for rakudo, nqp and moarvm
 
 ## archlinux
 
 <https://aur.archlinux.org/packages/rakudo/>
 
-* 2017.09
-
 * Separate packages for rakudo, nqp and moarvm
 
 ## OpenBSD Ports
 
 <http://cvsweb.openbsd.org/cgi-bin/cvsweb/ports/lang/rakudo/>
-
-* 2017.02
 
 ## Mac Homebrew
 
@@ -73,15 +63,11 @@ Versions available accurate as of 20171028 but check for updates.
 
 <https://chocolatey.org/packages/rakudostar>
 
-* 2017.07
-
 * This is a packaging of Rakudo itself, moar, nqp and the modules of Rakudo Star
 
 * It's built straight from the Rakudo Star Windows MSI usually released quarterly
 
 ## Rakudo Star Docker
-
-* 2017.07
 
 <https://hub.docker.com/_/rakudo-star/>
 
@@ -90,6 +76,3 @@ Versions available accurate as of 20171028 but check for updates.
 <https://github.com/samcv/rakudo-appimage-module-test-automation>
 
 * AppImage is a cross-disto Linux packaging format which doesn't need root
-
-* It's unclear which versions are available but they are several months old
-
